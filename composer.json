@@ -1,0 +1,18 @@
+{
+    "name": "hutong/aip",
+    "description": "baidu aip php sdk",
+    "authors": [
+        {
+            "name": "hutong"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Baidu\\Aip\\":"src/"
+        }
+    }
+}
