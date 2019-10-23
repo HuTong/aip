@@ -5,7 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "hutong"
+            "name": "hutong",
+            "email": "hutong0521@163.com"
         }
     ],
     "require": {
