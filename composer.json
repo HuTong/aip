@@ -1,6 +1,8 @@
 {
     "name": "hutong/aip",
     "description": "baidu aip php sdk",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "hutong"
