@@ -3,6 +3,12 @@
     "description": "baidu aip php sdk",
     "type": "library",
     "license": "MIT",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    },
     "authors": [
         {
             "name": "hutong",
